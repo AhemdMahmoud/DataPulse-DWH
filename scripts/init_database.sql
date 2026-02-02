@@ -33,6 +33,10 @@ GO
 
 create database DataWarehouse;
 GO
+-- use database 
+USE DataWarehouse;
+GO
+
 -- CREATE SCHEMAS
 
 create Schema bronze; 
