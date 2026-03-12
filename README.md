@@ -172,7 +172,7 @@ Business Rule:  Sales = Quantity × Price
 ```
 
 ---
-[![data Marts_scheama design](https://github.com/AhemdMahmoud/DataPulse-DWH/blob/main/docs/data_marts_model.gif)
+[![data Marts_scheama design](https://github.com/AhemdMahmoud/DataPulse-DWH/blob/main/docs/data_marts_model1.gif)
 ## Data Lineage
 
 ```
