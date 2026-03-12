@@ -2,7 +2,7 @@
 
 > A fully layered data warehouse built with SQL Server, implementing the **Medallion Architecture** (Bronze → Silver → Gold) to transform raw CRM and ERP data into clean, analytics-ready views.
 
-📖 **Full Documentation & Notes:** [Notion Project Page](https://www.notion.so/dailyahmed/SQL-Data-Warehouse-Project-2f85e937bc9e80c2be89cae261665e55?source=copy_link)
+📖 **Full  Project Phases and Tasks:** [Notion Project Page](https://www.notion.so/dailyahmed/SQL-Data-Warehouse-Project-2f85e937bc9e80c2be89cae261665e55?source=copy_link)
 
 ---
 
@@ -388,5 +388,5 @@ The Gold layer views are ready to connect directly to:
 
 ## 📖 Full Notes & Documentation
 
-For detailed project notes, design decisions, and additional context, visit the Notion page:  
+For Full  Project Phases and Tasks, visit the Notion page:  
 🔗 [SQL Data Warehouse Project — Notion](https://www.notion.so/dailyahmed/SQL-Data-Warehouse-Project-2f85e937bc9e80c2be89cae261665e55?source=copy_link)
